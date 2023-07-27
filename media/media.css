@@ -1,0 +1,69 @@
+@media(min-width:320px){
+    #card{
+        width: 100%;
+}
+.container{
+    width: 100%;
+}
+.card-row{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-col{
+    width: 100%;
+}
+
+
+}
+
+
+
+
+/*ipad*/
+
+
+@media(min-width:620px){
+
+    .container{
+        width: 100%;
+
+}
+.container{
+    width: 100%;
+}
+.card-row{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-col{
+    width: 50%;
+}
+
+}
+
+
+
+
+/*laptop*/
+
+
+@media(min-width:900px){
+    #card{
+        width: 100%;
+}
+.container{
+    width: 80%;
+}
+.card-row{
+    
+    display: flex;
+    flex-wrap: wrap;
+}
+.card-col{
+    width: 33.33%;
+}
+
+
+}
